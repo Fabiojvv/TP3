@@ -1,0 +1,170 @@
+{   "audio":"audios/sonido.mp3",
+    "modelo":"modelos/tecno.glb",
+    "fondo":"rgb(247, 181, 192)",
+    "data" :
+        [
+          {
+               "tiempo":"00:00",
+               "duracion":2000,
+               "camara":"c1",
+               "target":"t1",
+               "nombre":"Vista General"
+          },
+          {
+               "tiempo":"00:02",
+               "duracion":12000,
+               "camara":"c2",
+               "target":"t2",
+               "nombre":"Ingredientes"
+          },
+          {
+               "tiempo":"00:11",
+               "duracion":8000,
+               "camara":"c3",
+               "target":"t3",
+               "nombre":"Harina"
+          }
+          ,
+          {
+               "tiempo":"00:18",
+               "duracion":12000,
+               "camara":"c4",
+               "target":"t4",
+               "nombre":"Huevos"
+          }
+          ,
+          {
+               "tiempo":"00:29",
+               "duracion":10000,
+               "camara":"c5",
+               "target":"t5",
+               "nombre":"Chocolate"
+          }
+          ,
+          {
+               "tiempo":"00:38",
+               "duracion":10000,
+               "camara":"c6",
+               "target":"t6",
+               "nombre":"Azucar"
+          }
+          ,
+          {
+               "tiempo":"00:48",
+               "duracion":10000,
+               "camara":"c6",
+               "target":"t7",
+               "nombre":"Taza azul"
+          }
+          ,
+          {
+               "tiempo":"00:56",
+               "duracion":6000,
+               "camara":"c7",
+               "target":"t8",
+               "nombre":"Bicarbonato"
+          }
+               ,
+          {
+               "tiempo":"01:02",
+               "duracion":6000,
+               "camara":"c6",
+               "target":"t7",
+               "nombre":"Sal"
+          }
+          ,
+          {
+               "tiempo":"01:08",
+               "duracion":10000,
+               "camara":"c9",
+               "target":"t10",
+               "nombre":"Aceite"
+          }
+          ,
+          {
+               "tiempo":"01:18",
+               "duracion":10000,
+               "camara":"c10",
+               "target":"t11",
+               "nombre":"Vista con altura"
+          }
+          ,
+          {
+               "tiempo":"01:23",
+               "duracion":4000,
+               "camara":"c11",
+               "target":"t12",
+               "nombre":"Leche"
+          }
+          ,
+          {
+               "tiempo":"01:27",
+               "duracion":4000,
+               "camara":"c12",
+               "target":"t13",
+               "nombre":"Zoom Leche"
+          }
+          ,
+          {
+               "tiempo":"01:29",
+               "duracion":5000,
+               "camara":"c13",
+               "target":"t14",
+               "nombre":"Vainilla"
+          }
+          ,
+          {
+               "tiempo":"01:32",
+               "duracion":6000,
+               "camara":"c10",
+               "target":"t11",
+               "nombre":"Vista con altura"
+          }
+          ,
+          {
+               "tiempo":"01:35",
+               "duracion":5000,
+               "camara":"c14",
+               "target":"t15",
+               "nombre":"Cafe"
+          }
+          ,
+          {
+               "tiempo":"01:40",
+               "duracion":6000,
+               "camara":"c15",
+               "target":"t16",
+               "nombre":"Torta"
+          }
+          ,
+          {
+               "tiempo":"01:46",
+               "duracion":5000,
+               "camara":"c16",
+               "target":"t17",
+               "nombre":"Zoom Torta"
+          }
+          ,
+          {
+               "tiempo":"01:50",
+               "duracion":9000,
+               "camara":"c17",
+               "target":"t18",
+               "nombre":"Créditos"
+          }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ]
+}
